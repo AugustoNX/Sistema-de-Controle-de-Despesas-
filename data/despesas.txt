@@ -1,0 +1,1 @@
+1|compra de celular|200,00|23-10-2056|Compras|false||0,00
